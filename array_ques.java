@@ -21,7 +21,7 @@ public class array_ques {
         for(int i=0;i<rows;i++){             //taking i/p in matrix
             for(int j=0;j<cols;j++){
                 if(matrix[i][j]==x){
-                    System.out.println(i +" "+ j);    
+                    System.out.println(i+1 +" "+ j+1);    
             }
         }
     }

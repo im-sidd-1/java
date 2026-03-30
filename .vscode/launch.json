@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "java_one",
+            "request": "launch",
+            "mainClass": "java_one",
+            "projectName": "JAVA_ac31f45"
+        },
+        {
+            "type": "java",
             "name": "array_ques",
             "request": "launch",
             "mainClass": "array_ques",
